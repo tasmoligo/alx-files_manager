@@ -1,4 +1,3 @@
-
 #!/usr/bin/node
 
 const { v4 } = require('uuid');
